@@ -10,8 +10,6 @@ Welcome to the README for the Pig Game project. This project involves creating a
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Rules
 
@@ -20,6 +18,10 @@ Welcome to the README for the Pig Game project. This project involves creating a
 - If a player rolls a 1, their current turn's score is reset to zero, and the turn shifts to the other player.
 - A player can choose to "Hold" at any time during their turn, which adds their current turn's score to their total score.
 - The first player to reach a predefined score (e.g., 100 points) wins the game.
+
+## Demo
+
+Check out the live demo of the calculator [here](http://127.0.0.1:5501/index.html).
 
 ## Getting Started
 
